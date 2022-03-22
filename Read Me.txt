@@ -1,0 +1,29 @@
+By Beast_Cast
+
+
+INSTALLATION:
+
+- Find your game root folder: To find game root folder, find where you installed your cracked version of Planet Coaster. If you own the game but have no dlc's, go to your library, right click Planet Coaster, hit Manage and Browse Local Game files; or hit Properties, Local Files, and click browse. Now you are in Planet Coaster's root folder.
+
+-Find "steam_api64" dll file (In game root folder) and rename to "steam_api64_o" (DO NOT PUT IN QUOTATION MARKS) Depending on your system, it might look like "steam_api64.dll" Make sure it looks like "steam_api64_o.dll" based on your system.
+
+-Open the "PUT THESE IN GAME ROOT FOLDER" folder and paste those in your game root folder. 
+
+-(Do this if you are having issues) DELETE the original planet coaster .EXE shortcut made by steam and try running the game from the PlanetCoaster application located in the game folder.
+
+-DONE
+
+
+If doesn't work anymore, hit me up on Reddit or Twitter so I can update.
+AND if you have questions, hit me up as well.
+
+REDDIT: https://www.reddit.com/user/Critical_Employee_20
+TWITTER:https://twitter.com/EthanCarsten
+
+Note: I am no way affiliated with Frontier developments and this is ONLY posted for those who want to test out the DLC and buy it if they like it :)
+
+Game: https://store.steampowered.com/app/493340/Planet_Coaster/
+
+I'm not responsible if your shit breaks :)
+
+
